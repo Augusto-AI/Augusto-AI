@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://postimg.cc/HjFvwsCJ)](https://nestech.us)
 
 <h1 align="center">Hi 👋, I'm Augusto Herrera Velásquez</h1>
 <h3 align="center">A passionate Full Stack developer from Colombia</h3>
