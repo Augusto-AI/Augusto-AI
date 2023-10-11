@@ -1,4 +1,4 @@
-[![Fondo.gif](https://i.postimg.cc/bNvXjsCR/Fondo.gif)](https://postimg.cc/HjFvwsCJ)
+[![MasterHead](https://i.postimg.cc/bNvXjsCR/Fondo.gif)](https://postimg.cc/HjFvwsCJ)
 <h1 align="center">Hi 👋, I'm Augusto Herrera Velásquez</h1>
 <h3 align="center">A passionate Full Stack developer from Colombia</h3>
 
@@ -6,15 +6,13 @@
 
 
 
-- 🔭 I’m currently working on [PF HENRY&CO Final Proyect](https://pf-gafas.web.app/)
+- 🔭 I’m currently working on [PF HENRY&CO Final Project](https://pf-gafas.web.app/)
 
 - 🌱 I’m currently learning **React Native, Firebase, Next.js**
 
-- 👨‍💻 All of my projects are available at [www.nestech.us](www.nestech.us)
+- 👨‍💻 All of my projects are available soon at [www.nestech.us](www.nestech.us)
 
 - 📫 How to reach me **developer@nestech.us**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/augusto-herrera-velasquez-36679060/](https://www.linkedin.com/in/augusto-herrera-velasquez-36679060/)
 
 - ⚡ Fun fact **I'm a Colombian/Portuguese citizen**
 
