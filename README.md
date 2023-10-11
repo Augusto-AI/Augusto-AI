@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.canva.com/design/DAFo_yJx04U/8_Mqbs69PtUPd-zJDRGPhA/watch?utm_content=DAFo_yJx04U&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel))](https://nestech.us)
+[![Fondo.gif](https://i.postimg.cc/bNvXjsCR/Fondo.gif)](https://postimg.cc/HjFvwsCJ)
 <h1 align="center">Hi 👋, I'm Augusto Herrera Velásquez</h1>
 <h3 align="center">A passionate Full Stack developer from Colombia</h3>
 
