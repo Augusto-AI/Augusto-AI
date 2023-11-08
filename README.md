@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native, Firebase, Next.js**
 
-- 👨‍💻 All of my projects are available soon at [www.nestech.us](www.nestech.us)
+- 👨‍💻 All of my projects are available at my [Portafolio](https://augusto-herrera.netlify.app/)
 
 - 📫 How to reach me **developer@nestech.us**
 
